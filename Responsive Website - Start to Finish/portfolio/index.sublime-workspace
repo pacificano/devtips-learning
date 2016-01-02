@@ -1,0 +1,1059 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"he",
+				"height"
+			],
+			[
+				"font-",
+				"font-sizerz"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"boot",
+				"bootstrapTemplate	bootstrap-template"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"f",
+				"flexGrowOne"
+			],
+			[
+				"fl",
+				"flexGrowTwo"
+			],
+			[
+				"flex",
+				"flexGrowOne"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"border",
+				"border: 〔property〕"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bac",
+				"background-color: 〔property〕"
+			],
+			[
+				"font",
+				"font-family: 〔property〕"
+			],
+			[
+				"backg",
+				"background-image: 〔property〕"
+			],
+			[
+				"rep",
+				"repeat〔value〕"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"clear",
+				"clearLeft"
+			],
+			[
+				"cl",
+				"clearRight"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"fo",
+				"fourthEl"
+			],
+			[
+				"abo",
+				"absolutely"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"win",
+				"windowWidth"
+			],
+			[
+				"windo",
+				"windowHeight"
+			],
+			[
+				"header",
+				"headerHeight"
+			],
+			[
+				"wind",
+				"windowHeight"
+			],
+			[
+				"te",
+				"text-align: 〔property〕"
+			],
+			[
+				"has",
+				"hasClass〔function〕"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"al",
+				"text-align: 〔property〕"
+			],
+			[
+				"padd",
+				"padding: 〔property〕"
+			],
+			[
+				"padding",
+				"padding-bottom: 〔property〕"
+			],
+			[
+				"class",
+				"class:contactName"
+			],
+			[
+				"git",
+				"$github_address〔variable〕"
+			],
+			[
+				"twi",
+				"$twitter_handle〔variable〕"
+			],
+			[
+				"email",
+				"$email_address〔variable〕"
+			],
+			[
+				"seri",
+				"$service_image〔variable〕"
+			],
+			[
+				"serv",
+				"$service_image〔variable〕"
+			],
+			[
+				"abou",
+				"about_us_body"
+			],
+			[
+				"mail",
+				"$mailing_list_text〔variable〕"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"paddin",
+				"padding-bottom: 〔property〕"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"no",
+				"no-repeat〔value〕"
+			],
+			[
+				"res",
+				"$resource_url〔variable〕"
+			],
+			[
+				"resou",
+				"$resource_image〔variable〕"
+			],
+			[
+				"resour",
+				"resource_url"
+			],
+			[
+				"resourc",
+				"resource_image"
+			],
+			[
+				"test",
+				"testimonials"
+			],
+			[
+				"nu",
+				"$num_courses〔variable〕"
+			],
+			[
+				"num",
+				"$num_reviews〔variable〕"
+			],
+			[
+				"googl",
+				"$google_plus_username〔variable〕"
+			],
+			[
+				"face",
+				"$facebook_username〔variable〕"
+			],
+			[
+				"twitt",
+				"$twitter_username〔variable〕"
+			],
+			[
+				"instr",
+				"$instructor_name〔variable〕"
+			],
+			[
+				"vide",
+				"$video_name〔variable〕"
+			],
+			[
+				"project",
+				"project_feature_body"
+			],
+			[
+				"projec",
+				"$project_feature_title〔variable〕"
+			],
+			[
+				"fea",
+				"$features_section_body〔variable〕"
+			],
+			[
+				"feat",
+				"$features_section_title〔variable〕"
+			],
+			[
+				"features",
+				"features_section_image"
+			],
+			[
+				"who",
+				"$who_section_body〔variable〕"
+			],
+			[
+				"reas",
+				"$reason_1_title〔variable〕"
+			],
+			[
+				"inco",
+				"$income_section_description〔variable〕"
+			],
+			[
+				"income",
+				"income_section_title"
+			],
+			[
+				"incom",
+				"income_section_title"
+			],
+			[
+				"button",
+				"$button_text〔variable〕"
+			],
+			[
+				"course",
+				"course_url"
+			],
+			[
+				"get",
+				"getErrorMessage"
+			],
+			[
+				"bi",
+				"bioCounter"
+			],
+			[
+				"bio",
+				"bioCounter〔variable〕"
+			],
+			[
+				"jq",
+				"jqueryUI	jqueryUI-source"
+			],
+			[
+				"set",
+				"setErrorMessage"
+			],
+			[
+				"remo",
+				"remove〔function〕"
+			],
+			[
+				"error",
+				"errorContainer〔variable〕"
+			],
+			[
+				"paren",
+				"parentsConsent〔variable〕"
+			],
+			[
+				"parents",
+				"parentsConsent"
+			],
+			[
+				"cons",
+				"consentContainer"
+			],
+			[
+				"pass",
+				"passwordsMatch"
+			],
+			[
+				"vali",
+				"validateType"
+			],
+			[
+				"err",
+				"errorMessage"
+			],
+			[
+				"is",
+				"isRequired"
+			],
+			[
+				"validate",
+				"validateRequired"
+			],
+			[
+				"isF",
+				"isFormValid〔variable〕"
+			],
+			[
+				"valide",
+				"valideTypes"
+			],
+			[
+				"update",
+				"updateCounter"
+			],
+			[
+				"pro",
+				"projectors"
+			],
+			[
+				"other",
+				"otherText"
+			],
+			[
+				"ot",
+				"otherText"
+			],
+			[
+				"sub",
+				"submit〔variable〕"
+			],
+			[
+				"html",
+				"html	html"
+			],
+			[
+				"ad",
+				"addEventListener"
+			],
+			[
+				"stl",
+				"stylesheet_directory"
+			],
+			[
+				"toggle",
+				"toggleClass〔function〕"
+			],
+			[
+				"na",
+				"namesTwo"
+			],
+			[
+				"ta",
+				"tagName"
+			],
+			[
+				"tag",
+				"tagName〔argument〕"
+			],
+			[
+				"width",
+				"width: 〔property〕"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"data-",
+				"data-target=〔attribute〕"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"gyl",
+				"glyphicon"
+			],
+			[
+				"data",
+				"data-type=〔attribute〕"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"scrol",
+				"scrollTop〔function〕"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"a",
+				"alt	Attr"
+			],
+			[
+				"tabe",
+				"$tableBody〔variable〕"
+			],
+			[
+				"tab",
+				"$tableBody〔variable〕"
+			],
+			[
+				"animate",
+				"animateLeft〔variable〕"
+			],
+			[
+				"new",
+				"newIndex〔argument〕"
+			],
+			[
+				"slide",
+				"slideLeft〔variable〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "sass",
+		"selected_items":
+		[
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"jad",
+				"Set Syntax: Jade"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setjav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setsyntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"sublim",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"SublimeLint: Next Error"
+			],
+			[
+				"fetc",
+				"Fetch: Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 445.0
+	},
+	"console":
+	{
+		"height": 225.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Full Screen Landing Page/index.jade",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Full Screen Landing Page/css/main.sass",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Jade Is Awesome/index.jade",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Jade Is Awesome/index.html",
+		"/Users/trey/Desktop/zPacificano/learning-neat/NeatInstructions.html",
+		"/Users/trey/Desktop/zPacificano/learning-neat/learnNeat.sass",
+		"/Users/trey/Desktop/zPacificano/learning-neat/css/learnNeat.css",
+		"/Users/trey/Desktop/zPacificano/learning-neat/style.sass",
+		"/Users/trey/Desktop/zPacificano/learning-neat/_grid-settings.sass",
+		"/Users/trey/Desktop/zPacificano/learning-neat/neat.sass",
+		"/Users/trey/Desktop/zPacificano/learning-neat/css/style.css",
+		"/Users/trey/Desktop/zPacificano/learning-neat/learningNeat.html",
+		"/Users/trey/Desktop/zPacificano/learning-sass/style.sass",
+		"/Users/trey/Desktop/zPacificano/learning-neat/le.html",
+		"/Users/trey/Desktop/zPacificano/learning-sass/learningSASS.html",
+		"/Users/trey/Desktop/zPacificano/learning-sass/neat/settings/_visual-grid.scss",
+		"/Users/trey/Desktop/zPacificano/learning-sass/_font.sass",
+		"/Users/trey/Desktop/zPacificano/learning-sass/_warning.sass",
+		"/Users/trey/Desktop/zPacificano/learning-sass/css/style.css",
+		"/Users/trey/Desktop/zPacificano/learning-sass/style.scss",
+		"/Users/trey/Desktop/zPacificano/cakeTown/HTML/caketown01.html",
+		"/Users/trey/Desktop/zPacificano/cakeTown/HTML/styles01.css",
+		"/Users/trey/Desktop/zPacificano/gamingList/gamingList-01.html",
+		"/Users/trey/Desktop/zPacificano/cakeTown/HTML/bootstrap (1)/caketown-bootstrap.html",
+		"/Users/trey/Desktop/zPacificano/flexbox/flexbox 17.html",
+		"/Users/trey/Desktop/zPacificano/flexbox/flexbox 18.html",
+		"/Users/trey/Desktop/zPacificano/flexbox/flexbox 13.html",
+		"/Users/trey/Desktop/zPacificano/flexbox/flexbox 11.html",
+		"/Users/trey/Desktop/zPacificano/flexbox/flexbox 12.html",
+		"/Users/trey/Desktop/zPacificano/flexbox/flexbox 09.html",
+		"/Users/trey/Desktop/zPacificano/flexbox/.git/FETCH_HEAD",
+		"/Users/trey/Desktop/zPacificano/flexbox/flexbox 05.html",
+		"/Users/trey/Desktop/zPacificano/html-and-css-book/flexbox/flexbox 01.html",
+		"/Users/trey/Downloads/sprite-8d2dd51dbb157e457524bb411f1b53a137c44/sprite-8d2dd51dbb157e457524bb411f1b53a137c44.css",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/themes/pacificano/functions.php",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/themes/pacificano/header.php",
+		"/Users/trey/Downloads/Naut-for-reddit-master/src/naut_src.css",
+		"/Users/trey/Downloads/Naut-for-reddit-master/NAUT 3 - Main CSS File.css",
+		"/Users/trey/Desktop/zPacificano/cakeTown/Bootstrap/bootstrap-3.3.5/less/close.less",
+		"/Users/trey/Desktop/zPacificano/cakeTown/Bootstrap/index.html",
+		"/Users/trey/Desktop/zPacificano/cakeTown/Bootstrap/assets/css/bootstrap.css",
+		"/Users/trey/Desktop/zPacificano/cakeTown/Bootstrap/assets/custom.css",
+		"/Users/trey/Library/Application Support/Sublime Text 3/Packages/User/Snippets/bootstrap-template-CDN.sublime-snippet",
+		"/Users/trey/Desktop/zPacificano/html-and-css-book/ch17-html5ElementsWithStyle.html",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/themes/pacificano/single.php",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/themes/pacificano/style.css",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/themes/pacificano/page-individual.php",
+		"/Users/trey/Desktop/zPacificano/html-and-css-book/ch18-process_and_design.txt",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/themes/pacificano/content-services.php",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/themes/pacificano/footer.php",
+		"/Users/trey/Desktop/zPacificano/html-and-css-book/ch16-multipleBackgroundImages.html",
+		"/Users/trey/Desktop/zPacificano/html-and-css-book/ch16-spritesHover.html",
+		"/Users/trey/Desktop/zPacificano/html-and-css-book/960_12_col.css",
+		"/Users/trey/Desktop/zPacificano/html-and-css-book/ch15-960colExample.html",
+		"/Users/trey/Desktop/zPacificano/html-and-css-book/ch14-alignFormControls.html",
+		"/Users/trey/Desktop/zPacificano/html-and-css-book/ch15-clearFix.html",
+		"/Users/trey/Desktop/zPacificano/html-and-css-book/ch15-twoColumnLayout.html",
+		"/Users/trey/Desktop/zPacificano/html-and-css-book/ch15-importingMultipleStylesheets.css",
+		"/Users/trey/Desktop/zPacificano/html-and-css-book/ch15-positioning.html",
+		"/Users/trey/Desktop/zPacificano/html-and-css-book/ch15-relativePositioning.html",
+		"/Users/trey/Desktop/zPacificano/html-and-css-book/ch15-floatOverflowAutoFix.html",
+		"/Users/trey/Desktop/zPacificano/html-and-css-book/ch8-blockElements.html",
+		"/Users/trey/Desktop/zPacificano/html-and-css-book/ch9-html5Audio_withSources.html",
+		"/Users/trey/Desktop/zPacificano/html-and-css-book/ch9-html5Video_withSources.html",
+		"/Users/trey/Desktop/zPacificano/html-and-css-book/ch6-fieldsetsLegends.html",
+		"/Users/trey/Desktop/zPacificano/html-and-css-book/ch6-fileInputBox.html",
+		"/Users/trey/Desktop/zPacificano/html-and-css-book/ch8-inlineElements.html",
+		"/Users/trey/Desktop/zPacificano/html-and-css-book/ch6-longTables.html",
+		"/Users/trey/Desktop/zPacificano/html-and-css-book/ch6-tableHeaders.html",
+		"/Users/trey/Desktop/zPacificano/html-and-css-book/ch5-figure.html",
+		"/Users/trey/Desktop/zPacificano/html-and-css-book/ch2-address.html",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Bootstrap/assets/css/custom.css",
+		"/Users/trey/Desktop/zPacificano/cakeTown/Bootstrap/assets/css/custom.css",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Bootstrap/index.html",
+		"/Users/trey/Desktop/zPacificano/cakeTown/Bootstrap/assets/js/hamburger-toggle.js",
+		"/Users/trey/Desktop/zPacificano/cakeTown/Bootstrap/assets/js/windowHeight.js",
+		"/Users/trey/Desktop/zPacificano/cool-css-stuff/hamburger-toggle.css",
+		"/Users/trey/Desktop/zPacificano/cool-css-stuff/hamburger-toggle.html",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Bootstrap/assets/js/windowHeight.js",
+		"/Users/trey/Desktop/zPacificano/cool-css-stuff/hamburger-toggle.js",
+		"/Users/trey/Desktop/zPacificano/cool-css-stuff/animated-links.css",
+		"/Users/trey/Desktop/zPacificano/cool-css-stuff/animated-links.html",
+		"/Users/trey/Desktop/zPacificano/cool-css-stuff/test.css",
+		"/Users/trey/Desktop/zPacificano/cool-css-stuff/test.html",
+		"/Users/trey/Library/Application Support/Sublime Text 3/Packages/User/Snippets/cssMediaQueries.sublime-snippet",
+		"/Users/trey/Desktop/zPacificano/cakeTown/Bootstrap/assets/css/customOld.css",
+		"/Users/trey/Desktop/zPacificano/cakeTown/Bootstrap/assets/bootstrap-3.3.5-dist/css/bootstrap.css",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/themes/pacificano/index.php",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/themes/pacificano/template-parts/content-modal.php",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/themes/pacificano/assets/js/navigation.js",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/themes/pacificano/template-parts/content.php",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/themes/pacificano/content-hero.php",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Bootstrap/blog.html",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-config.php",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/plugins/contact-form-7/includes/css/styles.css",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/themes/pacificano/content-whatWeDo.php",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/themes/pacificano/404.php",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/themes/pacificano/page-services.php",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/themes/pacificano/page.php",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/themes/pacificano/template-parts/content-page.php",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/themes/pacificano/template-parts/content-single.php",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/themes/pacificano/page-mainServicePage.php",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/themes/pacificano/page-home.php",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Bootstrap/assets/js/navigation.js",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Bootstrap/post.html",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/themes/pacificano/page-footer.php",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/themes/pacificano/archive.php",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/themes/pacificano/search.php",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/themes/pacificano/template-parts/content-search.php",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/themes/pacificano/comments.php",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Bootstrap/resources.html",
+		"/Users/trey/Desktop/zPacificano/bootstrap-to-wordpress/wordpress/wp-content/themes/bootstrap2wordpress/style.css",
+		"/Users/trey/Desktop/zPacificano/bootstrap-to-wordpress/wordpress/wp-content/themes/bootstrap2wordpress/assets/css/bootstrap.css",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Wordpress/wp-content/themes/pacificano/content-aboutUs.php",
+		"/Users/trey/Desktop/zPacificano/renew2/25.php",
+		"/Users/trey/Desktop/zPacificano/renew2.1/index.html",
+		"/Users/trey/Desktop/zPacificano/renew2.1/blog.html",
+		"/Users/trey/Desktop/zPacificano/renew2.1/assets/css/custom.css",
+		"/Users/trey/Desktop/zPacificano/renew2.1/post.html",
+		"/Users/trey/Desktop/zPacificano/renew2.1/assets/js/windowHeight.js",
+		"/Users/trey/Desktop/zPacificano/bootstrap-to-wordpress/10-bootstrap-contact-page/index.html",
+		"/Users/trey/Desktop/zPacificano/bootstrap-to-wordpress/wordpress/wp-content/themes/bootstrap2wordpress/page-fullwidth.php",
+		"/Users/trey/Desktop/zPacificano/bootstrap-to-wordpress/10-bootstrap-contact-page/blog.html",
+		"/Users/trey/Desktop/zPacificano/bootstrap-to-wordpress/10-bootstrap-contact-page/contact.html",
+		"/Users/trey/Desktop/zPacificano/bootstrap-to-wordpress/wordpress/wp-content/themes/bootstrap2wordpress/template-parts/content.php",
+		"/Users/trey/Desktop/zPacificano/bootstrap-to-wordpress/wordpress/wp-content/themes/bootstrap2wordpress/archive.php",
+		"/Users/trey/Desktop/zPacificano/bootstrap-to-wordpress/wordpress/wp-content/themes/bootstrap2wordpress/search.php",
+		"/Users/trey/Desktop/zPacificano/bootstrap-to-wordpress/wordpress/wp-content/themes/bootstrap2wordpress/template-parts/content-search.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"div",
+			"flex-container",
+			"trza",
+			"flair",
+			"@",
+			"navbar",
+			"weirdFloat",
+			"nav",
+			"hero",
+			"white",
+			"navbar-custom",
+			"center",
+			"container",
+			"table-cell",
+			"ul li",
+			"table-cell",
+			"list-st",
+			"navbar ",
+			"collapse",
+			"navbar-toggle",
+			"navbar",
+			"display",
+			"center",
+			"border",
+			"button_text",
+			"resource_image",
+			"resource_url",
+			"sidebar",
+			"blog",
+			"h1",
+			"h2",
+			"register",
+			"h2",
+			"h3",
+			"            	\n",
+			"pacificano",
+			"pacificano_au",
+			"hello@pacificano.com",
+			"contact_description",
+			"homepage_tag",
+			"mailing_list_text",
+			"img",
+			"assets/img/",
+			"logo",
+			"/wp-content/themes/pacificano/",
+			"general",
+			"body",
+			"../img/",
+			"h3",
+			"h2",
+			"nav",
+			"navb",
+			"h1",
+			"h2",
+			"body",
+			"resource",
+			"hosting",
+			"button",
+			"input",
+			".JPG",
+			"input",
+			"button",
+			"h1",
+			"post",
+			"button",
+			"input",
+			"button",
+			"comment",
+			"button",
+			"hr",
+			"button",
+			"select",
+			"button",
+			"submit",
+			"border",
+			"input",
+			"select",
+			"form",
+			"primary",
+			"splash",
+			"h1",
+			"url",
+			"background: url",
+			"image",
+			"comment",
+			"newsletterd",
+			"images",
+			"radiu",
+			"logoimg",
+			"logo",
+			"input[type=\"search\"]",
+			"input",
+			"Resources",
+			"project_feature_title",
+			"reviews",
+			"google_plus_username",
+			"twitter",
+			"full_bio",
+			"bio_excerpt",
+			"instructor_section_title",
+			"section_title",
+			"title",
+			"who_feature_image",
+			"image",
+			"button_text",
+			"final_price",
+			"src=\"assets/img",
+			"name",
+			"Name",
+			"name",
+			"validateBio",
+			"bio",
+			"print",
+			"search",
+			"/wp-content/themes/bootstrap2wordpress/",
+			"url('wp",
+			"url('/wp",
+			"url('../img",
+			"blog",
+			"{\n	name: 'Casey',\n	rate: 60\n},\n",
+			"\"img/photo-1.jpg\": {\n		\"$img\": jQuery object,\n		\"isLoading\": false\n	},\n	",
+			"<a href=\"img/photo-1.jpg\" class=\"thumb active\" title=\"Elderberry Marshmallow\">\n		<img src=\"img/thumb-1.jpg\" alt=\"Elderberry Marshmallow\">\n	</a>\n	",
+			"<li>\n		<button class=\"accordion-control\"></button>\n		<div class=\"accordion-panel\"></div>\n	</li>\n	",
+			"><",
+			"width",
+			"green",
+			"url(../"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<?php bloginfo('stylesheet_directory'); ?>/assets/img/",
+			"",
+			"/wp-content/themes/pacificano/assets/img/",
+			"src=\"<?php bloginfo('stylesheet_directory'); ?>/assets/img",
+			"src=\"<?php bloginfo('stylesheet_director'); ?>/assets/img",
+			"",
+			"url('/wp",
+			"url('wp",
+			"url('/wp-content/themes/bootstrap2wordpress/assets/img",
+			"url(http://javascriptbook.com/code/c06/",
+			"url(\"http://javascriptbook.com/code/c06/",
+			"url('http://javascriptbook.com/code/c06/",
+			"September ",
+			"September"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
