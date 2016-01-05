@@ -11,22 +11,14 @@ section
 		.icon-browser {% include icons/icon-browser.html %}
 		.icon-video {% include icons/icon-video.html %}
 	
-	.blurb {{ site.data.portfolio.blurb }}
+	.blurb {{ site.data.portfolio.blurb | markdownify }}
 		
 	.skill-lockup {% for skill in site.data.portfolio.skills %}
 
 		.skill-unit
 			.skill-label {{ skill.name }}
 				div(class="skill-icons skill-{{ skill.value }}")
+					{% for i in (1..10) %}
 					span
-					span
-					span
-					span
-					span
-					span
-					span
-					span
-					span
-					span
-
+					{% endfor %}
 		{% endfor %}

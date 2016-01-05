@@ -22,6 +22,26 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
+	"\/_includes\/clients.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/clients.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_includes\/clients.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/clients.jade",
+		"outputAbbreviatedPath": "\/_includes\/clients.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
 	"\/_includes\/footer.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -163,6 +183,31 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
+	"\/_site\/assets\/css\/1-tools\/spinner.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/css\/1-tools\/spinner.scss",
+		"outputAbbreviatedPath": "\/_site\/assets\/css\/css\/spinner.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/_site\/assets\/css\/css\/animations.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/css\/css\/animations.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/assets\/css\/main.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -206,6 +251,94 @@
 		"initialSize": 396866,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/264H_lores.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/264H_lores.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/clients\/face-aaroni.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4941,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/clients\/face-aaroni.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/clients\/face-aaroni.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/clients\/face-atariboy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5998,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/clients\/face-atariboy.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/clients\/face-atariboy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/clients\/face-jackiesaik.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5281,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/clients\/face-jackiesaik.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/clients\/face-jackiesaik.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/clients\/face-teleject.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7627,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/clients\/face-teleject.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/clients\/face-teleject.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/clients\/logo1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4239,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/clients\/logo1.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/clients\/logo1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/clients\/logo2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3461,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/clients\/logo2.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/clients\/logo2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/clients\/logo3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6036,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/clients\/logo3.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/clients\/logo3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/clients\/logo4.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4030,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/clients\/logo4.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/clients\/logo4.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -548,6 +681,65 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/work\/proj-1.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/work\/proj-1.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/work\/proj-2.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/work\/proj-2.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/work\/proj-3.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/work\/proj-3.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/css\/1-tools\/_animations.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/css\/1-tools\/_animations.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/css\/_animations.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/css\/1-tools\/_clients.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/css\/1-tools\/_clients.sass",
+		"outputAbbreviatedPath": "\/assets\/css\/css\/_clients.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
 		},
 	"\/assets\/css\/1-tools\/_fonts.scss": {
 		"createSourceMap": 0,
@@ -1845,6 +2037,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/assets\/css\/1-tools\/spinner.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/css\/1-tools\/spinner.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/css\/spinner.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/assets\/css\/2-basics\/_body-element.sass": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -2005,6 +2213,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": false
 		},
+	"\/assets\/css\/css\/animations.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/css\/css\/animations.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/assets\/css\/main.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -2048,6 +2265,94 @@
 		"initialSize": 396866,
 		"inputAbbreviatedPath": "\/assets\/img\/264H_lores.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/264H_lores.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/clients\/face-aaroni.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4941,
+		"inputAbbreviatedPath": "\/assets\/img\/clients\/face-aaroni.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/clients\/face-aaroni.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/clients\/face-atariboy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5998,
+		"inputAbbreviatedPath": "\/assets\/img\/clients\/face-atariboy.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/clients\/face-atariboy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/clients\/face-jackiesaik.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5281,
+		"inputAbbreviatedPath": "\/assets\/img\/clients\/face-jackiesaik.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/clients\/face-jackiesaik.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/clients\/face-teleject.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7627,
+		"inputAbbreviatedPath": "\/assets\/img\/clients\/face-teleject.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/clients\/face-teleject.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/clients\/logo1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4239,
+		"inputAbbreviatedPath": "\/assets\/img\/clients\/logo1.png",
+		"outputAbbreviatedPath": "\/assets\/img\/clients\/logo1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/clients\/logo2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3461,
+		"inputAbbreviatedPath": "\/assets\/img\/clients\/logo2.png",
+		"outputAbbreviatedPath": "\/assets\/img\/clients\/logo2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/clients\/logo3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6036,
+		"inputAbbreviatedPath": "\/assets\/img\/clients\/logo3.png",
+		"outputAbbreviatedPath": "\/assets\/img\/clients\/logo3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/clients\/logo4.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4030,
+		"inputAbbreviatedPath": "\/assets\/img\/clients\/logo4.png",
+		"outputAbbreviatedPath": "\/assets\/img\/clients\/logo4.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2387,6 +2692,33 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/work\/proj-1.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/work\/proj-1.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/work\/proj-2.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/work\/proj-2.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/work\/proj-3.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/work\/proj-3.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

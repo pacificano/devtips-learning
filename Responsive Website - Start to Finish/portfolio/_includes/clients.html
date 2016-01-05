@@ -1,0 +1,21 @@
+
+<section>
+  <h3 id="clients">Clients</h3>
+  <div class="client-controls">
+    <div class="client-control-next"></div>
+    <div class="client-control-prev"></div>
+  </div>
+  <div class="clients-belt">
+    <div class="client-unit">
+      <div class="client-face"><img src="/assets/img/clients/face-aaroni.jpg" alt="client-face"/><strong class="client-name">Sccott Summers</strong><em class="client-title">Director of Design</em></div>
+      <div class="client-content">
+        <p>{{ site.data.portfolio.blurb | markdownify }}</p>
+      </div>
+    </div>
+  </div>
+  <div class="clients-logos">{% for i in (1..4) %}
+    <div class="client-logo">
+      <p>Hello</p>
+    </div>{% endfor %}
+  </div>
+</section>

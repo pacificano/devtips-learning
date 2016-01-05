@@ -1,5 +1,5 @@
 # Portfolio settings
-title: Artists Theme
+title: Artists Themez
 description: Thinker // Designer // YouTuber
 email: artist@email
 
@@ -14,7 +14,7 @@ menu:
 #SKILL LIST
 
 skills:
-- {name: Communication, value: '1'}
+- {name: Communication, value: '5'}
 - {name: Organization, value: '7'}
 - {name: Learning, value: '10'}
 - {name: Teeching, value: '6'}
@@ -30,7 +30,8 @@ logo: 'logo.svg'
 bg-img: 'hero-bg.jpg'
 
 avatar: 'face.jpg'
-blurb: <p><strong>Yorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</strong> Ut enim ad minim veniam,nquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit essen cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonnproident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+blurb: >
+  **Gorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.** Ut enim ad minim veniam,nquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit essen cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonnproident, sunt in culpa qui [officia deserunt mollit](http://www.pacificano.com) anim id est **laborum**.
 
 
 # WORK SECTION
@@ -43,4 +44,4 @@ projects:
 - {name: Fresh It Up, folder: 'proj-5'}
 - {name: Timeline Page, folder: 'proj-6'}
 - {name: Weather Dashboard, folder: 'proj-7'}
-- {name: Stripes & Co, folder: 'proj-8'}
+- {name: Stripes & Corn, folder: 'proj-8'}

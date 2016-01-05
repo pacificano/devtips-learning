@@ -4,8 +4,15 @@ section.alt-section
 
 	.thumb-container {% for project in site.data.portfolio.projects %}
 
-		a(style="background:url(/assets/img/work/{{ project.folder }}/thumb.jpg", class="thumb-unit")
+		a(style="background:url(/assets/img/work/{{ project.folder }}/thumb.jpg", class="thumb-unit" data-folder="{{ project.folder }}")
 			.thumb-overlay
 				strong {{ project.name }}
 
 		{% endfor %}
+
+.work-belt
+	.color-gradient
+	.work-box
+		.project-title
+		.project-load
+			p text here

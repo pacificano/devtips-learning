@@ -1,0 +1,24 @@
+section
+
+	h3(id="clients") Clients
+
+	.client-controls
+		.client-control-next
+		.client-control-prev
+
+	.clients-belt
+		.client-unit
+
+			.client-face
+				img(src="/assets/img/clients/face-aaroni.jpg" alt="client-face")
+				strong.client-name Sccott Summers
+				em.client-title Director of Design
+
+			.client-content
+				p {{ site.data.portfolio.blurb | markdownify }}
+
+	.clients-logos
+		{% for i in (1..4) %}
+		.client-logo
+			p Hello
+		{% endfor %}

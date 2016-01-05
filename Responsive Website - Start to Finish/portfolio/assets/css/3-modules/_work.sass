@@ -14,6 +14,7 @@
 		position: relative
 		padding-top: 16%
 		overflow: hidden
+		+perspective(300)
 
 		@media screen and (max-width: 760px)
 			width: 50%
@@ -22,17 +23,18 @@
 		background: 
 			position: center center
 			repeat: no-repeat
-			size: cover 
+			size: cover
 
 		.thumb-overlay
 			+position(absolute, 100% 0px null 0px)
 			height: 100%
 			background: fade-out($accent, 0.1)
 			text-align: center
-			+transition
+			+transition(800ms)
 			+display(flex)
 			+align-items(center)
 			+justify-content(center)
+			+transform(rotateX(90deg))
 
 
 			strong
@@ -45,4 +47,28 @@
 				line-height: 1.2
 
 		&:hover .thumb-overlay
-			+position(absolute, 0% 0px null 0px)
+			top: 0%
+			+transform(rotateX(0deg))
+
+.work-belt
+	+clearfix
+	+size(200% 200px)
+	position: relative
+	left: 0%
+
+	// &:hover
+	// 	left: 0%
+
+	.color-gradient
+		+size(50% 200px)
+		+linear-gradient(to right, pink 0%, blue 50%, yellow 100%)
+		float: left
+
+		&:hover
+			@extend %animation
+
+	.work-box
+		+size(50% 200px)
+		background:
+			color: pink
+		float: left
