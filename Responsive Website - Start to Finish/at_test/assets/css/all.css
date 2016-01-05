@@ -1,0 +1,43 @@
+/*
+Error: Invalid CSS after "": expected expression (e.g. 1px, bold), was "{{ site.data.la..."
+        on line 8 of /Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/at_test/assets/css/all.sass
+
+3: 
+4: @import '1-tools/-tools-dir'
+5: 
+6: //------------------------------------------------
+7: // Transition the image paths from the settings file to usable SASS variables
+8: $animation: {{ site.data.layout.animation }}
+9: $logo-path: '{{ site.data.layout.logo }}'
+10: $hero-path: '{{ site.data.layout.hero }}'
+11: $avatar-path: '{{ site.data.layout.avatar }}'
+12: 
+13: $projects: {% for project in site.data.settings.projects %} "{{ project.folder }}", {% endfor %}
+
+Backtrace:
+/Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/at_test/assets/css/all.sass:8
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:1161:in `expected'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/script/lexer.rb:221:in `expected!'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/script/parser.rb:571:in `assert_expr'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/script/parser.rb:62:in `parse'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/script/parser.rb:183:in `parse'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/script.rb:27:in `parse'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/engine.rb:1130:in `parse_script'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/engine.rb:753:in `parse_variable'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/engine.rb:641:in `parse_line'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/engine.rb:535:in `build_tree'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/engine.rb:554:in `block in append_children'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/engine.rb:553:in `each'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/engine.rb:553:in `append_children'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/engine.rb:406:in `_to_tree'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/engine.rb:278:in `render'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/exec/sass_scss.rb:420:in `run'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/exec/sass_scss.rb:63:in `process_result'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/exec/base.rb:52:in `parse'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/exec/base.rb:19:in `parse!'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/bin/sass:13:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Invalid CSS after \"\": expected expression (e.g. 1px, bold), was \"{{ site.data.la...\"\A         on line 8 of /Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/at_test/assets/css/all.sass\A \A 3: \A 4: @import '1-tools/-tools-dir'\A 5: \A 6: //------------------------------------------------\A 7: // Transition the image paths from the settings file to usable SASS variables\A 8: $animation: {{ site.data.layout.animation }}\A 9: $logo-path: '{{ site.data.layout.logo }}'\A 10: $hero-path: '{{ site.data.layout.hero }}'\A 11: $avatar-path: '{{ site.data.layout.avatar }}'\A 12: \A 13: $projects: {% for project in site.data.settings.projects %} \"{{ project.folder }}\", {% endfor %}"; }

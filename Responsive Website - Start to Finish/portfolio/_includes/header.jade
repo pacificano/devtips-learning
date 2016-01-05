@@ -1,12 +1,10 @@
 header
 	.logo {% include icons/logo.html %}
 
-	nav
-		a(href="") About Me
-		a(href="") Work
-		a(href="") Clients
-		a(href="") Contact
+	nav {% for item in site.data.portfolio.menu %}
+		a(href="{{ item.url }}") {{ item.name}}
+		{% endfor %}
 
 	h1
-		span {{ site.title }}
-	p.kicker {{ site.description }}
+		span {{ site.data.portfolio.title }}
+	p.kicker {{ site.data.portfolio.description }}

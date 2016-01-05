@@ -1,0 +1,11 @@
+section.alt-section
+
+	h3(id="work") Work
+
+	.thumb-container {% for project in site.data.portfolio.projects %}
+
+		a(style="background:url(/assets/img/work/{{ project.folder }}/thumb.jpg", class="thumb-unit")
+			.thumb-overlay
+				strong {{ project.name }}
+
+		{% endfor %}

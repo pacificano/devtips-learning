@@ -1,0 +1,32 @@
+section
+	
+	h3(id="about-me") About Myself
+
+	.face-lockup
+
+		.face-img
+
+		.icon-pencil {% include icons/icon-pencil.html %}
+		.icon-mouse {% include icons/icon-mouse.html %}
+		.icon-browser {% include icons/icon-browser.html %}
+		.icon-video {% include icons/icon-video.html %}
+	
+	.blurb {{ site.data.portfolio.blurb }}
+		
+	.skill-lockup {% for skill in site.data.portfolio.skills %}
+
+		.skill-unit
+			.skill-label {{ skill.name }}
+				div(class="skill-icons skill-{{ skill.value }}")
+					span
+					span
+					span
+					span
+					span
+					span
+					span
+					span
+					span
+					span
+
+		{% endfor %}
