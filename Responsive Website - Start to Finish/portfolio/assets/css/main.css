@@ -413,8 +413,117 @@ th {
     -webkit-transform: rotate(360deg);
     transform: rotate(360deg);
     box-shadow: 0 -0.83em 0 -0.4em #ffffff, 0 -0.83em 0 -0.42em #ffffff, 0 -0.83em 0 -0.44em #ffffff, 0 -0.83em 0 -0.46em #ffffff, 0 -0.83em 0 -0.477em #ffffff; } }
-.client-logo {
-  background: pink; }
+.section-clients {
+  position: relative; }
+
+.clients-belt {
+  width: 100%;
+  position: relative; }
+  .clients-belt .client-unit {
+    max-width: 750px;
+    margin: 0 auto 50px;
+    margin: 0 0 50px -375px;
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    display: none; }
+    .clients-belt .client-unit .client-face {
+      min-width: 300px;
+      text-align: center; }
+      .clients-belt .client-unit .client-face img {
+        max-width: 128px;
+        border-radius: 50%; }
+      .clients-belt .client-unit .client-face .client-name {
+        display: block; }
+    .clients-belt .client-unit.active-client {
+      display: -webkit-box;
+      display: -moz-box;
+      display: box;
+      display: -webkit-flex;
+      display: -moz-flex;
+      display: -ms-flexbox;
+      display: flex; }
+
+.client-content {
+  font-size: 18px;
+  line-height: 36px;
+  font-weight: 300;
+  margin-top: -10px; }
+
+.clients-logos {
+  position: relative;
+  width: 100%;
+  margin: 350px auto 100px;
+  display: -webkit-box;
+  display: -moz-box;
+  display: box;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: space-around;
+  -moz-box-align: space-around;
+  box-align: space-around;
+  -webkit-align-items: space-around;
+  -moz-align-items: space-around;
+  -ms-align-items: space-around;
+  -o-align-items: space-around;
+  align-items: space-around;
+  -ms-flex-align: space-around;
+  -webkit-box-pack: center;
+  -moz-box-pack: center;
+  box-pack: center;
+  -webkit-justify-content: center;
+  -moz-justify-content: center;
+  -ms-justify-content: center;
+  -o-justify-content: center;
+  justify-content: center;
+  -ms-flex-pack: center; }
+  .clients-logos .client-logo {
+    height: 80px;
+    min-width: 200px;
+    background-image: url(/assets/img/clients/logo1.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0 20px; }
+    .clients-logos .client-logo.active-client {
+      box-shadow: 0px 4px 0px #e1c184; }
+
+.client-controls {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px; }
+  .client-controls > div {
+    height: 40px;
+    width: 40px;
+    margin-top: -20px; }
+    .client-controls > div:nth-child(1) {
+      background: green;
+      position: absolute;
+      top: 20%;
+      right: 10px; }
+    .client-controls > div:nth-child(2) {
+      background: pink;
+      position: absolute;
+      top: 20%;
+      left: 10px; }
+
+.relDiv {
+  height: 300px;
+  width: 400px;
+  background: pink;
+  position: relative; }
+  .relDiv .absoDiv {
+    height: 150px;
+    width: 150px;
+    background: green;
+    position: absolute;
+    top: -50px;
+    left: 200px;
+    opacity: 0.3; }
 
 body {
   background-color: white;

@@ -45,3 +45,17 @@ projects:
 - {name: Timeline Page, folder: 'proj-6'}
 - {name: Weather Dashboard, folder: 'proj-7'}
 - {name: Stripes & Corn, folder: 'proj-8'}
+
+
+
+# CLIENT SECTION
+
+clients:
+- {name: 'Billy Banter', avatar: 'face-aaroni.jpg', title: 'CEO'}
+- {name: 'Scott Summers', avatar: 'face-atariboy.jpg', title: 'Janitor'}
+- {name: 'Jill Valentine', avatar: 'face-jackiesaik.jpg', title: ' Business Woman'}
+- {name: 'STORMZY', avatar: 'face-teleject.jpg', title: 'Captain'}
+
+
+
+

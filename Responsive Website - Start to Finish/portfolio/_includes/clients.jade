@@ -1,4 +1,4 @@
-section
+section.section-clients
 
 	h3(id="clients") Clients
 
@@ -6,19 +6,23 @@ section
 		.client-control-next
 		.client-control-prev
 
-	.clients-belt
-		.client-unit
+	.clients-belt {% for client in site.data.portfolio.clients %}
 
+		.client-unit
 			.client-face
-				img(src="/assets/img/clients/face-aaroni.jpg" alt="client-face")
-				strong.client-name Sccott Summers
-				em.client-title Director of Design
+				img(src="/assets/img/clients/{{ client.avatar }}" alt="photo of {{ client.name }}")
+				strong.client-name {{ client.name }}
+				em.client-title {{ client.title }}
 
 			.client-content
-				p {{ site.data.portfolio.blurb | markdownify }}
+				{{ site.data.portfolio.blurb | markdownify }}
+
+		{% endfor %}
 
 	.clients-logos
 		{% for i in (1..4) %}
-		.client-logo
-			p Hello
+		.client-logo.active-client
 		{% endfor %}
+
+	.relDiv
+		.absoDiv

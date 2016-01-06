@@ -1,2 +1,86 @@
-.client-logo
+.section-clients
+	position: relative
+
+.clients-belt
+	width: 100%
+	position: relative
+
+	.client-unit
+		max-width: 750px
+		margin: 0 auto 50px
+		margin: 0 0 50px -375px
+		+position(absolute, 0px null null 50%)
+		display: none
+
+		.client-face
+			min-width: 300px
+			text-align: center
+
+			img
+				max-width: 128px
+				border-radius: 50%
+
+			.client-name
+				display: block
+
+		&.active-client
+			+display(flex)
+
+.client-content
+	font-size: 18px
+	line-height: 36px
+	font-weight: 300
+	margin-top: -10px
+
+
+
+.clients-logos
+	position: relative
+	width: 100%
+	margin: 350px auto 100px
+	+display(flex)
+	+align-items(space-around)
+	+justify-content(center)
+
+	.client-logo
+		height: 80px
+		min-width: 200px
+		background:
+			image: url(/assets/img/clients/logo1.png)
+			size: contain
+			position: center
+			repeat: no-repeat
+		margin: 0 20px
+
+		&.active-client
+			box-shadow: 0px 4px 0px $accent
+
+
+.client-controls
+	+position(absolute, 0px 0px 0px 0px)
+
+	> div
+		+size(40px)
+		margin-top: -20px
+
+		&:nth-child(1)
+			background: green
+			+position(absolute, 20% 10px null null)
+
+		&:nth-child(2)
+			background: pink
+			+position(absolute, 20% null null 10px)
+
+
+
+
+.relDiv
+	+size(400px 300px)
 	background: pink
+	+position(relative)
+
+	.absoDiv
+		+size(150px)
+		background: green
+		+position(absolute, -50px null null 200px)
+		opacity: 0.3
