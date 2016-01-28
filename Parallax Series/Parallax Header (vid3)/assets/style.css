@@ -1,0 +1,120 @@
+html {
+  box-sizing: border-box; }
+
+*, *::after, *::before {
+  box-sizing: inherit; }
+
+body, html {
+  padding: 0;
+  margin: 0; }
+
+.bird-box {
+  position: relative;
+  height: 600px;
+  background-image: url(/assets/images/bird-bg.jpg);
+  background-size: auto 600px;
+  background-position: top center;
+  background-attachment: fixed;
+  overflow: hidden; }
+
+.logo {
+  height: 100px;
+  width: 100%;
+  background-image: url(/assets/images/black-bird-logo.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 50%;
+  margin-top: -50px; }
+
+.fore-bird {
+  width: 960px;
+  height: 733px;
+  background-image: url(/assets/images/fore-bird.png);
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  position: absolute;
+  left: 50%;
+  margin-left: -480px;
+  top: 380px; }
+
+.back-bird {
+  width: 960px;
+  height: 298px;
+  background-image: url(/assets/images/back-bird.png);
+  background-repeat: no-repeat;
+  background-position: top left;
+  position: absolute;
+  left: 50%;
+  margin-left: -480px; }
+
+img {
+  max-width: 100%;
+  padding: 0;
+  margin: 0; }
+
+.img-row {
+  max-width: 68em;
+  margin-left: auto;
+  margin-right: auto; }
+  .img-row::after {
+    clear: both;
+    content: "";
+    display: table; }
+  .img-row .figure {
+    float: left;
+    display: block;
+    margin-right: 2.3576515979%;
+    width: 31.7615656014%;
+    margin-bottom: 20px;
+    position: relative;
+    opacity: 0;
+    -webkit-transform: translateX(-20px);
+        -ms-transform: translateX(-20px);
+            transform: translateX(-20px);
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    overflow: hidden;
+    cursor: pointer; }
+    .img-row .figure:last-child {
+      margin-right: 0; }
+    .img-row .figure.is-showing {
+      opacity: 1;
+      -webkit-transform: translateX(0px);
+          -ms-transform: translateX(0px);
+              transform: translateX(0px); }
+    .img-row .figure img {
+      display: block;
+      -webkit-transform: scale(1);
+          -ms-transform: scale(1);
+              transform: scale(1);
+      -webkit-transition: all 0.3s linear;
+      transition: all 0.3s linear; }
+    .img-row .figure:hover figcaption {
+      left: 0%; }
+    .img-row .figure:hover img {
+      -webkit-transform: scale(1.2);
+          -ms-transform: scale(1.2);
+              transform: scale(1.2); }
+  .img-row figcaption {
+    position: absolute;
+    bottom: 10px;
+    left: -100%;
+    background: black;
+    color: white;
+    padding: 2px 8px;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out; }
+
+.large-window {
+  height: 400px;
+  width: 400px;
+  margin-left: 50%;
+  position: relative;
+  left: -200px;
+  background-image: url("/assets/images/model1.jpg");
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin-top: 100px;
+  border-radius: 50%; }

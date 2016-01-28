@@ -1,0 +1,1292 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"test",
+				"testimonialsBlock"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"header",
+				"headerDiv"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"foote",
+				"footerButtonHolder"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"window",
+				"windowwidth"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"s",
+				"scrollZone"
+			],
+			[
+				"head",
+				"headerBlock"
+			],
+			[
+				"menub",
+				"menuButton"
+			],
+			[
+				"togg",
+				"toggle〔function〕"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"sc",
+				"scrollTop〔function〕"
+			],
+			[
+				"fade",
+				"fadeInFunction"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"omeg",
+				"omega-reset"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"margn",
+				"margin-bottom"
+			],
+			[
+				"div",
+				"divContents"
+			],
+			[
+				"ad",
+				"addClass〔function〕"
+			],
+			[
+				"remo",
+				"removeClass〔function〕"
+			],
+			[
+				"clien",
+				"clientNum"
+			],
+			[
+				"cli",
+				"clientNum"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"aja",
+				"ajaxSetup〔function〕"
+			],
+			[
+				"thumb",
+				"thumb-unit"
+			],
+			[
+				"thu",
+				"thumb-overlay"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"skil",
+				"skill-lockup"
+			],
+			[
+				"ski",
+				"skill-color"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"boot",
+				"bootstrapTemplate	bootstrap-template"
+			],
+			[
+				"f",
+				"flexGrowOne"
+			],
+			[
+				"fl",
+				"flexGrowTwo"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bac",
+				"background-color: 〔property〕"
+			],
+			[
+				"backg",
+				"background-image: 〔property〕"
+			],
+			[
+				"rep",
+				"repeat〔value〕"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"clear",
+				"clearLeft"
+			],
+			[
+				"cl",
+				"clearRight"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"fo",
+				"fourthEl"
+			],
+			[
+				"abo",
+				"absolutely"
+			],
+			[
+				"win",
+				"windowWidth"
+			],
+			[
+				"windo",
+				"windowHeight"
+			],
+			[
+				"wind",
+				"windowHeight"
+			],
+			[
+				"te",
+				"text-align: 〔property〕"
+			],
+			[
+				"has",
+				"hasClass〔function〕"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"al",
+				"text-align: 〔property〕"
+			],
+			[
+				"padding",
+				"padding-bottom: 〔property〕"
+			],
+			[
+				"class",
+				"class:contactName"
+			],
+			[
+				"git",
+				"$github_address〔variable〕"
+			],
+			[
+				"twi",
+				"$twitter_handle〔variable〕"
+			],
+			[
+				"email",
+				"$email_address〔variable〕"
+			],
+			[
+				"seri",
+				"$service_image〔variable〕"
+			],
+			[
+				"serv",
+				"$service_image〔variable〕"
+			],
+			[
+				"abou",
+				"about_us_body"
+			],
+			[
+				"mail",
+				"$mailing_list_text〔variable〕"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"no",
+				"no-repeat〔value〕"
+			],
+			[
+				"res",
+				"$resource_url〔variable〕"
+			],
+			[
+				"resou",
+				"$resource_image〔variable〕"
+			],
+			[
+				"resour",
+				"resource_url"
+			],
+			[
+				"resourc",
+				"resource_image"
+			],
+			[
+				"nu",
+				"$num_courses〔variable〕"
+			],
+			[
+				"num",
+				"$num_reviews〔variable〕"
+			],
+			[
+				"googl",
+				"$google_plus_username〔variable〕"
+			],
+			[
+				"face",
+				"$facebook_username〔variable〕"
+			],
+			[
+				"twitt",
+				"$twitter_username〔variable〕"
+			],
+			[
+				"instr",
+				"$instructor_name〔variable〕"
+			],
+			[
+				"vide",
+				"$video_name〔variable〕"
+			],
+			[
+				"project",
+				"project_feature_body"
+			],
+			[
+				"projec",
+				"$project_feature_title〔variable〕"
+			],
+			[
+				"fea",
+				"$features_section_body〔variable〕"
+			],
+			[
+				"feat",
+				"$features_section_title〔variable〕"
+			],
+			[
+				"features",
+				"features_section_image"
+			],
+			[
+				"who",
+				"$who_section_body〔variable〕"
+			],
+			[
+				"reas",
+				"$reason_1_title〔variable〕"
+			],
+			[
+				"inco",
+				"$income_section_description〔variable〕"
+			],
+			[
+				"income",
+				"income_section_title"
+			],
+			[
+				"incom",
+				"income_section_title"
+			],
+			[
+				"button",
+				"$button_text〔variable〕"
+			],
+			[
+				"course",
+				"course_url"
+			],
+			[
+				"get",
+				"getErrorMessage"
+			],
+			[
+				"bi",
+				"bioCounter"
+			],
+			[
+				"bio",
+				"bioCounter〔variable〕"
+			],
+			[
+				"jq",
+				"jqueryUI	jqueryUI-source"
+			],
+			[
+				"set",
+				"setErrorMessage"
+			],
+			[
+				"error",
+				"errorContainer〔variable〕"
+			],
+			[
+				"paren",
+				"parentsConsent〔variable〕"
+			],
+			[
+				"parents",
+				"parentsConsent"
+			],
+			[
+				"cons",
+				"consentContainer"
+			],
+			[
+				"pass",
+				"passwordsMatch"
+			],
+			[
+				"vali",
+				"validateType"
+			],
+			[
+				"err",
+				"errorMessage"
+			],
+			[
+				"is",
+				"isRequired"
+			],
+			[
+				"validate",
+				"validateRequired"
+			],
+			[
+				"isF",
+				"isFormValid〔variable〕"
+			],
+			[
+				"valide",
+				"valideTypes"
+			],
+			[
+				"update",
+				"updateCounter"
+			],
+			[
+				"pro",
+				"projectors"
+			],
+			[
+				"other",
+				"otherText"
+			],
+			[
+				"ot",
+				"otherText"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.jade",
+			"settings":
+			{
+				"buffer_size": 1029,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/functions.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/style.sass",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"last_filter": "ja",
+		"selected_items":
+		[
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"s",
+				"Set Syntax: Sass"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jad",
+				"Set Syntax: Jade"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"setjav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setsyntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"sublim",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"SublimeLint: Next Error"
+			],
+			[
+				"fetc",
+				"Fetch: Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 477.0
+	},
+	"console":
+	{
+		"height": 225.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Parallax Series/Parallax Header (vid2)/style.sass",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Parallax Series/Parallax Header (vid2)/functions.js",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Parallax Series/Parallax Header (vid2)/Parallax-on-the-Web-DevTips--0.1/index.jade",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_assets/js/functions.js",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_assets/css/3-sections/_header.sass",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_includes/form.jade",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/index.jade",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_includes/footer.jade",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_assets/css/3-sections/_photos.sass",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_assets/css/3-sections/_testimonials.sass",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_assets/css/3-sections/_footer.sass",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/index.html",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_includes/photos.jade",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_assets/js/analytics.js",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_includes/testimonials.jade",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_assets/css/3-sections/_stripes.sass",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_includes/head.jade",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_includes/body.jade",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_assets/css/3-sections/_copy.sass",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_includes/about.jade",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_includes/header.jade",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_assets/js/hamburger-toggle.js",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_assets/css/style.sass",
+		"/Users/trey/Desktop/zPacificano/cool-css-stuff/jQuery slick carousel/HTML/_assets/js/functions.js",
+		"/Users/trey/Desktop/zPacificano/cool-css-stuff/jQuery slick carousel/HTML/_assets/css/2-elements/_slick.sass",
+		"/Users/trey/Desktop/zPacificano/cool-css-stuff/jQuery slick carousel/HTML/_assets/css/style.sass",
+		"/Users/trey/Desktop/zPacificano/cool-css-stuff/jQuery slick carousel/HTML/index.jade",
+		"/Users/trey/Desktop/zPacificano/cool-css-stuff/jQuery slick carousel/HTML/_includes/header.jade",
+		"/Users/trey/Desktop/zPacificano/cool-css-stuff/jQuery slick carousel/HTML/_includes/footer.jade",
+		"/Users/trey/Desktop/zPacificano/cool-css-stuff/jQuery slick carousel/HTML/_includes/body.jade",
+		"/Users/trey/Desktop/zPacificano/cool-css-stuff/jQuery slick carousel/HTML/index.html",
+		"/Users/trey/Desktop/zPacificano/learning-jade/Derek Banas - Jade In One Video/includes/section2.jade",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_assets/js/formspree_ajax.js",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_assets/css/2-elements/_form.sass",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_assets/js/fadeInScroll.jQuery.js",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_assets/css/style.css",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_assets/css/2-elements/_buttons.sass",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/mobile_test/test_607.html",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/mobile_test/test_622.js",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_assets/js/formspree_hideEmail.js",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_includes/intro.jade",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_includes/testimonial.jade",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/Jekyll/index.html",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/Jekyll/index.jade",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/Jekyll/_site/index.html",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/Jekyll/_includes/test.jade",
+		"/Users/trey/Desktop/zPacificano/learning-jade/Derek Banas - Jade In One Video/includes/section4.jade",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/Jekyll/_includes/about.jade",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/Jekyll/_config.yml",
+		"/Users/trey/Desktop/zPacificano/learning-jade/Derek Banas - Jade In One Video/body.jade",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/Jekyll/_data/products.yml",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/Jekyll/_includes/head.jade",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/Jekyll/_data/goods.yml",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/assets/css/style.sass",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/assets/css/3-sections/_header.sass",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/portfolio/_includes/about.jade",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/portfolio/_data/portfolio.yml",
+		"/Users/trey/Desktop/zPacificano/parallaxBackground/index.html",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_assets/js/parallax.js",
+		"/Users/trey/Desktop/zPacificano/parallaxBackground/parallax.js",
+		"/Users/trey/Desktop/zPacificano/cool-css-stuff/hamburger-toggle/hamburger-toggle.js",
+		"/Users/trey/Desktop/zPacificano/cool-css-stuff/hamburger-toggle/hamburger-toggle.html",
+		"/Users/trey/Desktop/zPacificano/cool-css-stuff/hamburger-toggle/hamburger-toggle.css",
+		"/Users/trey/Library/Preferences/com.apple.finder.plist.Hd2fXTy",
+		"/Users/trey/Desktop/zPacificano/cool-css-stuff/fadein-onscroll/HTML/_assets/js/functions.js",
+		"/Users/trey/Desktop/zPacificano/cool-css-stuff/fadein-onscroll/HTML/_assets/js/fadeIn.js",
+		"/Users/trey/Desktop/zPacificano/renew2.1/Bootstrap/assets/js/windowHeight.js",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_assets/js/fittext.js",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_assets/css/1-addons/animate.min.css",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_assets/css/2-elements/_fonts.sass",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_includes/purchase.jade",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_includes/order.jade",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_includes/contact.jade",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_assets/css/1-addons/animation-bounce.scss",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/portfolio/assets/css/3-modules/_header.sass",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_assets/css/1-addons/omega-reset",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_includes/copy.jade",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_assets/css/1-addons/reset.css",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_assets/css/1-addons/normalize.css",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_assets/style.sass",
+		"/Users/trey/Desktop/zPacificano/sweet-tooth-sweets/HTML/_config.yml",
+		"/Users/trey/Desktop/zPacificano/learning-neat/medium Neat guide/assets/style.css",
+		"/Users/trey/Desktop/zPacificano/learning-neat/medium Neat guide/index.jade",
+		"/Users/trey/Desktop/zPacificano/learning-neat/medium Neat guide/_includes/content.jade",
+		"/Users/trey/Desktop/zPacificano/learning-neat/medium Neat guide/_includes/divColourTest.jade",
+		"/Users/trey/Desktop/zPacificano/learning-neat/medium Neat guide/assets/style.sass",
+		"/Users/trey/Desktop/zPacificano/learning-neat/codecourse Neat video/_grid-settings.sass",
+		"/Users/trey/Desktop/zPacificano/learning-neat/codecourse Neat video/learnNeat.sass",
+		"/Users/trey/Desktop/zPacificano/learning-neat/codecourse Neat video/NeatInstructions.html",
+		"/Users/trey/Desktop/zPacificano/learning-jade/Derek Banas - Jade In One Video/includes/section3.jade",
+		"/Users/trey/Desktop/zPacificano/learning-jade/Derek Banas - Jade In One Video/includes/section1.jade",
+		"/Users/trey/Desktop/zPacificano/learning-neat/medium Neat guide/assets/styles.sass",
+		"/Users/trey/Desktop/zPacificano/learning-neat/medium Neat guide/index.html",
+		"/Users/trey/Desktop/zPacificano/learning-neat/medium Neat guide/_includes/head.jade",
+		"/Users/trey/Desktop/zPacificano/learning-jade/Derek Banas - Jade In One Video/index.jade",
+		"/Users/trey/Desktop/zPacificano/learning-jade/Derek Banas - Jade In One Video/index.html",
+		"/Users/trey/Desktop/zPacificano/learning-jade/Derek Banas - Jade In One Video/includes/extendex.jade",
+		"/Users/trey/Desktop/zPacificano/learning-jade/Derek Banas - Jade In One Video/section1.jade",
+		"/Users/trey/Desktop/zPacificano/learning-jade/Derek Banas - Jade In One Video/section2.jade",
+		"/Users/trey/Desktop/zPacificano/learning-jade/Derek Banas - Jade In One Video/head.jade",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/portfolio/_includes/footer.jade",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Jade Is Awesome/index.jade",
+		"/Users/trey/Library/Application Support/Sublime Text 3/Packages/User/Snippets/jade-template.sublime-snippet",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/at_test/index.html",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/learning-neat/learnNeat.sass",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/learning-neat/NeatInstructions.html",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/learning-neat/style.sass",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/learning-neat/learningNeat.html",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/portfolio/_includes/work.jade",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/portfolio/assets/js/functions.js",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/portfolio/_includes/clients.jade",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/portfolio/assets/css/1-tools/_clients.sass",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/portfolio/index.html",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/portfolio/assets/css/main.sass",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/portfolio/work/proj-3.html",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/portfolio/work/proj-2.html",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/portfolio/work/work-1.html",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/portfolio/assets/css/3-modules/_work.sass",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/portfolio/assets/css/1-tools/spinner.scss",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/portfolio/_includes/work/work-1.html",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/portfolio/assets/css/1-tools/animations.scss",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/portfolio/assets/css/main.css",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/portfolio/_includes/header.jade",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/portfolio/_config.yml",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/portfolio/_site/index.html",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/portfolio/assets/css/3-modules/_about.sass",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/portfolio/assets/css/1-tools/_vars.sass",
+		"/Users/trey/Desktop/zPacificano/devtips-learning/Responsive Website - Start to Finish/portfolio/assets/css/3-modules/_footer.sass"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$bgcolor",
+			"white",
+			"backgr",
+			"red",
+			"fav",
+			"transform",
+			"assets",
+			"_assets",
+			"font",
+			"padding",
+			"padd",
+			"z-index",
+			"visibility",
+			"menu",
+			"black",
+			"nth-",
+			"nth",
+			"span",
+			"scrolltop",
+			"padding",
+			"content",
+			"proj-1",
+			"body",
+			"\"",
+			"div",
+			"flex-container",
+			"trza",
+			"flair",
+			"@",
+			"navbar",
+			"weirdFloat",
+			"nav",
+			"hero",
+			"white",
+			"navbar-custom",
+			"center",
+			"container",
+			"table-cell",
+			"ul li",
+			"table-cell",
+			"list-st",
+			"navbar ",
+			"collapse",
+			"navbar-toggle",
+			"navbar",
+			"display",
+			"center",
+			"border",
+			"button_text",
+			"resource_image",
+			"resource_url",
+			"sidebar",
+			"blog",
+			"h1",
+			"h2",
+			"register",
+			"h2",
+			"h3",
+			"            	\n",
+			"pacificano",
+			"pacificano_au",
+			"hello@pacificano.com",
+			"contact_description",
+			"homepage_tag",
+			"mailing_list_text",
+			"img",
+			"assets/img/",
+			"logo",
+			"/wp-content/themes/pacificano/",
+			"general",
+			"body",
+			"../img/",
+			"h3",
+			"h2",
+			"nav",
+			"navb",
+			"h1",
+			"h2",
+			"body",
+			"resource",
+			"hosting",
+			"button",
+			"input",
+			".JPG",
+			"input",
+			"button",
+			"h1",
+			"post",
+			"button",
+			"input",
+			"button",
+			"comment",
+			"button",
+			"hr",
+			"button",
+			"select",
+			"button",
+			"submit",
+			"border",
+			"input",
+			"select",
+			"form",
+			"primary",
+			"splash",
+			"h1",
+			"url",
+			"background: url",
+			"image",
+			"comment",
+			"newsletterd",
+			"images",
+			"radiu",
+			"logoimg",
+			"logo",
+			"input[type=\"search\"]",
+			"input",
+			"Resources",
+			"project_feature_title",
+			"reviews",
+			"google_plus_username",
+			"twitter",
+			"full_bio",
+			"bio_excerpt",
+			"instructor_section_title",
+			"section_title",
+			"title",
+			"who_feature_image",
+			"image"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"assets",
+			"<?php bloginfo('stylesheet_directory'); ?>/assets/img/",
+			"",
+			"/wp-content/themes/pacificano/assets/img/",
+			"src=\"<?php bloginfo('stylesheet_directory'); ?>/assets/img",
+			"src=\"<?php bloginfo('stylesheet_director'); ?>/assets/img",
+			"",
+			"url('/wp",
+			"url('wp",
+			"url('/wp-content/themes/bootstrap2wordpress/assets/img",
+			"url(http://javascriptbook.com/code/c06/",
+			"url(\"http://javascriptbook.com/code/c06/",
+			"url('http://javascriptbook.com/code/c06/",
+			"September ",
+			"September"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1029,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1015,
+								1015
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/functions.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/style.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "parallax.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

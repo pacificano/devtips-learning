@@ -1,0 +1,128 @@
+// Import bourbon
+@import "bourbon"
+@import "neat-helpers"
+
+// Define your breakpoints... has to go after neat-helpers but before neat
+$tablet: new-breakpoint(max-width 768px 8)
+$mobile: new-breakpoint(max-width 480px 4)
+
+// Import Neat
+@import "neat"
+
+
+
+body, html
+	padding: 0
+	margin: 0
+
+.bird-box
+	position: relative
+	height: 600px
+	background:
+		image: url(/assets/images/bird-bg.jpg)
+		size: auto 600px
+		position: top center
+		attachment: fixed
+	overflow: hidden
+
+.logo
+	height: 100px
+	width: 100%
+	background:
+		image: url(/assets/images/black-bird-logo.svg)
+		position: center 
+		repeat: no-repeat
+	position: absolute
+	top: 50%
+	margin-top: -50px
+
+.fore-bird
+	width: 960px
+	height: 733px
+	background:
+		// color: transparentize(pink, 0.3)
+		image: url(/assets/images/fore-bird.png)
+		repeat: no-repeat
+		position: right bottom
+	position: absolute
+	left: 50%
+	margin-left: -480px
+	top: 380px
+
+.back-bird
+	width: 960px
+	height: 298px
+	background:
+		image: url(/assets/images/back-bird.png)
+		repeat: no-repeat
+		position: top left
+		// color: transparentize(pink, 0.3)
+	position: absolute
+	left: 50%
+	margin-left: -480px
+
+
+
+img
+	max-width: 100%
+	padding: 0
+	margin: 0
+
+
+
+.img-row
+	+outer-container
+	// border: 1px solid green
+
+	.figure
+		// border: 1px solid red
+		+span-columns(4 of 12)
+		margin-bottom: 20px
+		position: relative
+		opacity: 0
+		transform: translateX(-20px)
+		transition: all 0.3s ease-in-out
+		overflow: hidden
+		cursor: pointer
+
+		&.is-showing
+			opacity: 1
+			transform: translateX(0px)
+
+		img
+			// border: 1px solid blue
+			display: block
+			transform: scale(1)
+			transition: all 0.3s linear
+
+		&:hover
+			figcaption
+				left: 0%
+
+			img
+				transform: scale(1.2)
+
+	figcaption
+		position: absolute
+		bottom: 10px
+		left: -100%
+		background: black
+		color: white
+		padding: 2px 8px
+		transition: all 0.3s ease-in-out
+
+
+
+.large-window
+	height: 400px
+	width: 400px
+	margin-left: 50%
+	position: relative
+	left: -200px
+	background:
+		image: url("/assets/images/model1.jpg")
+		position: top center
+		repeat: no-repeat
+		attachment: fixed
+	margin-top: 100px
+	border-radius: 50%
