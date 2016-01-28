@@ -1,1 +1,0 @@
-$(window).scroll(function(){var s=$(this).scrollTop();console.log(s),$(".logo").css({transform:"translate(0px, "+s/2+"%)"}),$(".back-bird").css({transform:"translate(0px, "+s/4+"%)"}),$(".fore-bird").css({transform:"translate(0px, -"+s/40+"%)"})});

@@ -15,6 +15,13 @@ body, html
 	padding: 0
 	margin: 0
 
+
+section
+	position: relative
+	z-index: 2
+	background: white
+	margin-bottom: 400px
+
 .bird-box
 	position: relative
 	height: 600px
@@ -24,6 +31,7 @@ body, html
 		position: top center
 		attachment: fixed
 	overflow: hidden
+	z-index: 3
 
 .logo
 	height: 100px
@@ -121,8 +129,104 @@ img
 	left: -200px
 	background:
 		image: url("/assets/images/model1.jpg")
-		position: top center
+		position: center 0px
 		repeat: no-repeat
 		attachment: fixed
 	margin-top: 100px
+	margin-bottom: 100px
 	border-radius: 50%
+
+	.window-tint
+		background-color: rgba(0,0,0,0.5)
+		position: absolute
+		top: 0
+		left: 0
+		right: 0
+		bottom: 0
+		border-radius: 50%
+		display: flex
+		justify-content: center
+		align-items: center
+
+	.promo-text
+		color: white
+		font-weight: 100
+		font-size: 50px
+		display: flex
+		flex-direction: column
+		justify-content: center
+		align-items: center
+		// display: block
+
+		strong
+			display: block
+			font-size: 30px
+
+		.window-cta
+			font-size: 20px
+			text-decoration: none
+			color: white
+			border: 1px solid white
+			padding: 10px 20px
+			transition: all 0.3s ease-in-out
+
+			&:hover
+				background: white
+				color: black
+
+
+
+
+.blog-posts-row
+	+outer-container
+
+	.post
+		+span-columns(4 of 12)
+		text-align: center
+		border: 1px solid grey
+		padding: 20px 20px 0
+		background: white
+		position: relative
+
+	.post-1
+		transform: translate(100px, 20px)
+
+	.post-2
+		z-index: 2
+
+	.post-3
+		transform: translate(-100px, 20px)
+
+		p
+			a
+				border: 1px solid black
+				text-decoration: none
+				padding: 10px
+
+
+
+
+ul, li, a
+	padding: 0px
+	margin: 0px
+
+
+
+footer
+	+outer-container
+	background: black
+	color: white
+	margin-top: 100px
+	padding: 40px 0
+	position: fixed
+	bottom: 0
+	width: 100%
+
+	a
+		color: red
+
+	.col3
+		+span-columns(3 of 12)
+
+	.col6
+		+span-columns(6 of 12)

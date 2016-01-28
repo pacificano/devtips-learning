@@ -8,6 +8,12 @@ body, html {
   padding: 0;
   margin: 0; }
 
+section {
+  position: relative;
+  z-index: 2;
+  background: white;
+  margin-bottom: 400px; }
+
 .bird-box {
   position: relative;
   height: 600px;
@@ -15,7 +21,8 @@ body, html {
   background-size: auto 600px;
   background-position: top center;
   background-attachment: fixed;
-  overflow: hidden; }
+  overflow: hidden;
+  z-index: 3; }
 
 .logo {
   height: 100px;
@@ -113,8 +120,135 @@ img {
   position: relative;
   left: -200px;
   background-image: url("/assets/images/model1.jpg");
-  background-position: top center;
+  background-position: center 0px;
   background-repeat: no-repeat;
   background-attachment: fixed;
   margin-top: 100px;
+  margin-bottom: 100px;
   border-radius: 50%; }
+  .large-window .window-tint {
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 50%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center; }
+  .large-window .promo-text {
+    color: white;
+    font-weight: 100;
+    font-size: 50px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center; }
+    .large-window .promo-text strong {
+      display: block;
+      font-size: 30px; }
+    .large-window .promo-text .window-cta {
+      font-size: 20px;
+      text-decoration: none;
+      color: white;
+      border: 1px solid white;
+      padding: 10px 20px;
+      -webkit-transition: all 0.3s ease-in-out;
+      transition: all 0.3s ease-in-out; }
+      .large-window .promo-text .window-cta:hover {
+        background: white;
+        color: black; }
+
+.blog-posts-row {
+  max-width: 68em;
+  margin-left: auto;
+  margin-right: auto; }
+  .blog-posts-row::after {
+    clear: both;
+    content: "";
+    display: table; }
+  .blog-posts-row .post {
+    float: left;
+    display: block;
+    margin-right: 2.3576515979%;
+    width: 31.7615656014%;
+    text-align: center;
+    border: 1px solid grey;
+    padding: 20px 20px 0;
+    background: white;
+    position: relative; }
+    .blog-posts-row .post:last-child {
+      margin-right: 0; }
+  .blog-posts-row .post-1 {
+    -webkit-transform: translate(100px, 20px);
+        -ms-transform: translate(100px, 20px);
+            transform: translate(100px, 20px); }
+  .blog-posts-row .post-2 {
+    z-index: 2; }
+  .blog-posts-row .post-3 {
+    -webkit-transform: translate(-100px, 20px);
+        -ms-transform: translate(-100px, 20px);
+            transform: translate(-100px, 20px); }
+    .blog-posts-row .post-3 p a {
+      border: 1px solid black;
+      text-decoration: none;
+      padding: 10px; }
+
+ul, li, a {
+  padding: 0px;
+  margin: 0px; }
+
+footer {
+  max-width: 68em;
+  margin-left: auto;
+  margin-right: auto;
+  background: black;
+  color: white;
+  margin-top: 100px;
+  padding: 40px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%; }
+  footer::after {
+    clear: both;
+    content: "";
+    display: table; }
+  footer a {
+    color: red; }
+  footer .col3 {
+    float: left;
+    display: block;
+    margin-right: 2.3576515979%;
+    width: 23.2317613015%; }
+    footer .col3:last-child {
+      margin-right: 0; }
+  footer .col6 {
+    float: left;
+    display: block;
+    margin-right: 2.3576515979%;
+    width: 48.821174201%; }
+    footer .col6:last-child {
+      margin-right: 0; }

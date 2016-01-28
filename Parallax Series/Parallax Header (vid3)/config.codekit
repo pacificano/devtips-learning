@@ -101,6 +101,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/images\/posts\/one.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22264,
+		"inputAbbreviatedPath": "\/assets\/images\/posts\/one.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/posts\/one.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/posts\/three.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17293,
+		"inputAbbreviatedPath": "\/assets\/images\/posts\/three.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/posts\/three.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/posts\/two.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13588,
+		"inputAbbreviatedPath": "\/assets\/images\/posts\/two.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/posts\/two.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/min\/functions-min.js": {
 		"fileType": 64,
 		"ignore": 1,
