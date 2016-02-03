@@ -1,0 +1,24 @@
+:root {
+  font-size: 24px; }
+
+body {
+  width: 40rem;
+  margin: 50px auto; }
+
+h1 {
+  font-size: 3rem; }
+
+p {
+  font-size: 1rem; }
+
+.button {
+  font-size: 1rem;
+  text-decoration: none;
+  color: #666;
+  font-weight: bold;
+  display: inline-block;
+  border: 0.0625em solid #ccc;
+  border-radius: 0.1875em;
+  padding: 0.6em 1.2em; }
+  .button:hover {
+    border-color: #999; }
