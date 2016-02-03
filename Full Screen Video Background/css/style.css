@@ -1,0 +1,29 @@
+body, html, .container, video {
+  margin: 0;
+  padding: 0; }
+
+body, html, .container {
+  height: 100%;
+  width: 100%; }
+
+.container {
+  position: relative;
+  overflow: hidden; }
+  .container .text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    color: white;
+    font-size: 200%; }
+  .container video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: 1; }
